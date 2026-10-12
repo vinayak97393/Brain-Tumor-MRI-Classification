@@ -1,0 +1,3 @@
+Model,Test Accuracy,Macro F1-Score,Parameters
+Custom CNN,0.8943,0.89,11169476
+MobileNetV2,0.8618,0.86,2263108

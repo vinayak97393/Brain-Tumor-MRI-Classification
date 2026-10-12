@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Local environment settings
+.env
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+
+# Dataset — do not upload raw images
+datasets/
+
+# Temporary files
+*.log
+.DS_Store
